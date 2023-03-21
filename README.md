@@ -24,7 +24,6 @@ python investigation_analysis.py
 
     Enter a new case ID and subject when prompted:
 
-go
 
 Enter a new case ID: 123
 Enter a subject for the case: Suspicious Activity
